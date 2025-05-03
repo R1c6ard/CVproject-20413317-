@@ -1,6 +1,6 @@
 # Person Tracking Project
 
-This project is person tracking using computer vision techniques.
+This project is COMP3065 Computer Vision Coursework: person tracking.
 
 ## Directory Structure
 
