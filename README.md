@@ -1,6 +1,6 @@
 # Person Tracking Project
 
-This project is person tracking using computer vision techniques based on optical flow and HOG detection.
+This project is person tracking using computer vision techniques.
 
 ## Directory Structure
 
